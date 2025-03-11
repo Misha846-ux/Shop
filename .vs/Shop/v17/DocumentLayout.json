@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0448\u0430\\source\\repos\\Shop\\",
+  "WorkspaceRootPath": "C:\\Users\\minga\\OneDrive\\123\\Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEA37FE8-3667-49C6-A46C-B76FC3B9322E}|Shop\\Shop.csproj|c:\\users\\\u043C\u0438\u0448\u0430\\source\\repos\\shop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEA37FE8-3667-49C6-A46C-B76FC3B9322E}|Shop\\Shop.csproj|c:\\users\\minga\\onedrive\\123\\shop\\shop\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA37FE8-3667-49C6-A46C-B76FC3B9322E}|Shop\\Shop.csproj|solutionrelative:shop\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA37FE8-3667-49C6-A46C-B76FC3B9322E}|Shop\\Shop.csproj|c:\\users\\minga\\onedrive\\123\\shop\\shop\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA37FE8-3667-49C6-A46C-B76FC3B9322E}|Shop\\Shop.csproj|solutionrelative:shop\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA37FE8-3667-49C6-A46C-B76FC3B9322E}|Shop\\Shop.csproj|c:\\users\\minga\\onedrive\\123\\shop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA37FE8-3667-49C6-A46C-B76FC3B9322E}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\minga\\OneDrive\\123\\Shop\\Shop\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Shop\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\minga\\OneDrive\\123\\Shop\\Shop\\IPaymentMethod.cs",
+              "RelativeToolTip": "Shop\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:03:56.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\minga\\OneDrive\\123\\Shop\\Shop\\IOrder.cs",
+              "RelativeDocumentMoniker": "Shop\\IOrder.cs",
+              "ToolTip": "C:\\Users\\minga\\OneDrive\\123\\Shop\\Shop\\IOrder.cs",
+              "RelativeToolTip": "Shop\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:03:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0448\u0430\\source\\repos\\Shop\\Shop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\minga\\OneDrive\\123\\Shop\\Shop\\Program.cs",
               "RelativeDocumentMoniker": "Shop\\Program.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0448\u0430\\source\\repos\\Shop\\Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\minga\\OneDrive\\123\\Shop\\Shop\\Program.cs",
               "RelativeToolTip": "Shop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T16:35:35.422Z",
               "EditorCaption": ""
